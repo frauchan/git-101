@@ -1,0 +1,20 @@
+body {
+	margin:  0;
+	font-family:  Helvetica;
+	font-weight: bolder;
+
+}
+
+#container {
+	display:  flex;
+	align-items:  center;
+	justify-content:  center;
+
+}
+
+#logo {
+	height: 80px;
+	width:  80px;
+	opacity: 0.8;
+
+}
